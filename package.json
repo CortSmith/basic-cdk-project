@@ -21,8 +21,12 @@
     "typescript": "~3.9.7"
   },
   "dependencies": {
+    "@types/aws-lambda": "^8.10.100",
     "aws-cdk-lib": "2.27.0",
+    "aws-lambda": "^1.0.7",
+    "aws-sdk": "^1.18.0",
     "constructs": "^10.0.0",
+    "eslint": "^8.17.0",
     "source-map-support": "^0.5.21"
   }
 }
